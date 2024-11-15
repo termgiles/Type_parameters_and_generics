@@ -1,0 +1,14 @@
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.exe
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.deps.json
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.runtimeconfig.json
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.dll
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\bin\Debug\net8.0\SuperheroAgency.pdb
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.AssemblyInfoInputs.cache
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.AssemblyInfo.cs
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.dll
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\refint\SuperheroAgency.dll
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.pdb
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.genruntimeconfig.cache
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\ref\SuperheroAgency.dll
