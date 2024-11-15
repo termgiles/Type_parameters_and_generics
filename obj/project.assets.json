@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\thoma\\.nuget\\packages\\": {}
+    "C:\\Users\\yusha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Code\\Csharp\\week2\\day_5\\Type_parameters_and_generics\\SuperheroAgency\\SuperheroAgency.csproj",
+      "projectUniqueName": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\SuperheroAgency.csproj",
       "projectName": "SuperheroAgency",
-      "projectPath": "C:\\Users\\thoma\\OneDrive\\Code\\Csharp\\week2\\day_5\\Type_parameters_and_generics\\SuperheroAgency\\SuperheroAgency.csproj",
-      "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoma\\OneDrive\\Code\\Csharp\\week2\\day_5\\Type_parameters_and_generics\\SuperheroAgency\\obj\\",
+      "projectPath": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\SuperheroAgency.csproj",
+      "packagesPath": "C:\\Users\\yusha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yusha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

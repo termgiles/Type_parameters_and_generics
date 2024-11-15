@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thoma\\OneDrive\\Code\\Csharp\\week2\\day_5\\Type_parameters_and_generics\\SuperheroAgency\\",
+  "WorkspaceRootPath": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\thoma\\onedrive\\code\\csharp\\week2\\day_5\\type_parameters_and_generics\\superheroagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\superheros\\gadgeteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:superheros\\gadgeteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\interfaces\\istrength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:interfaces\\istrength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\interfaces\\itech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:interfaces\\itech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\superheros\\mystic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:superheros\\mystic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\interfaces\\itelepathy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:interfaces\\itelepathy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\superheros\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:superheros\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\alignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:alignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|c:\\users\\yusha\\documents\\northcoders\\fundamentals\\cs-type-param\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8570C63-B16B-4DF0-8546-FFDDEE9D596F}|SuperheroAgency.csproj|solutionrelative:customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +54,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Gadgeteer.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superheros\\Gadgeteer.cs",
+              "RelativeDocumentMoniker": "Superheros\\Gadgeteer.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superheros\\Gadgeteer.cs",
+              "RelativeToolTip": "Superheros\\Gadgeteer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:25:32.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mystic.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superheros\\Mystic.cs",
+              "RelativeDocumentMoniker": "Superheros\\Mystic.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superheros\\Mystic.cs",
+              "RelativeToolTip": "Superheros\\Mystic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:24:04.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superheros\\Tank.cs",
+              "RelativeDocumentMoniker": "Superheros\\Tank.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superheros\\Tank.cs",
+              "RelativeToolTip": "Superheros\\Tank.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:20:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITelepathy.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\ITelepathy.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITelepathy.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\ITelepathy.cs",
+              "RelativeToolTip": "Interfaces\\ITelepathy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:19:28.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStrength.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\IStrength.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStrength.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\IStrength.cs",
+              "RelativeToolTip": "Interfaces\\IStrength.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:18:32.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITech.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\ITech.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITech.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\ITech.cs",
+              "RelativeToolTip": "Interfaces\\ITech.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:17:35.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\IFly.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFly.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Interfaces\\IFly.cs",
+              "RelativeToolTip": "Interfaces\\IFly.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:16:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alignment.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Alignment.cs",
+              "RelativeDocumentMoniker": "Alignment.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Alignment.cs",
+              "RelativeToolTip": "Alignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:14:02.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Superhero.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superhero.cs",
+              "RelativeDocumentMoniker": "Superhero.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Superhero.cs",
+              "RelativeToolTip": "Superhero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:08:32.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\CustomStack.cs",
+              "RelativeDocumentMoniker": "CustomStack.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\CustomStack.cs",
+              "RelativeToolTip": "CustomStack.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:50:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\OneDrive\\Code\\Csharp\\week2\\day_5\\Type_parameters_and_generics\\SuperheroAgency\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\thoma\\OneDrive\\Code\\Csharp\\week2\\day_5\\Type_parameters_and_generics\\SuperheroAgency\\Program.cs",
+              "ToolTip": "C:\\Users\\yusha\\Documents\\northcoders\\fundamentals\\cs-type-param\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T10:09:50.483Z",
               "EditorCaption": ""

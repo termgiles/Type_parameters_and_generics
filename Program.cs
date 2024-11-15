@@ -31,19 +31,33 @@ namespace SuperheroAgency
             //string[] stringArray = { "hello", "world", "it's", "northcoders!" };
             //Console.WriteLine(GetLast(stringArray)); // "northcoders"
 
-            Stack<string> books = new Stack<string>();
+            //Stack<string> books = new Stack<string>();
 
-            books.Push("Narnia");
-            books.Push("Harry Potter");
-            books.Push("Hunger Games");
-            //books.Push(1);
-            books.Pop();
+            //books.Push("Narnia");
+            //books.Push("Harry Potter");
+            //books.Push("Hunger Games");
+            ////books.Push(1);
+            //books.Pop();
 
-            Console.WriteLine(books.Count);
-            foreach (string book in books)
+            //Console.WriteLine(books.Count);
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //}
+
+            var myBooks = new CustomStack<string>();
+
+            myBooks.Push("Book 1");
+            myBooks.Push("Book 2");
+            myBooks.Push("Book 3");
+           
+           for(int i = 0; i < myBooks.Length; i++)
             {
-                Console.WriteLine(book);
+                Console.WriteLine(myBooks.GetItem(i));
             }
+            
+
+            Console.WriteLine(myBooks.Pop()); // Book 3
 
         }
 
