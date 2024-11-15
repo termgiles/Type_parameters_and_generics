@@ -1,4 +1,7 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using SuperheroAgency.Interfaces;
+using SuperheroAgency.Missions;
+using SuperheroAgency.Superheros;
+using System.Security.Cryptography.X509Certificates;
 
 namespace SuperheroAgency
 {
@@ -31,7 +34,7 @@ namespace SuperheroAgency
             //string[] stringArray = { "hello", "world", "it's", "northcoders!" };
             //Console.WriteLine(GetLast(stringArray)); // "northcoders"
 
-            //Stack<string> books = new Stack<string>();
+            Stack<string> books = new Stack<string>();
 
             //books.Push("Narnia");
             //books.Push("Harry Potter");
@@ -50,14 +53,36 @@ namespace SuperheroAgency
             myBooks.Push("Book 1");
             myBooks.Push("Book 2");
             myBooks.Push("Book 3");
-           
-           for(int i = 0; i < myBooks.Length; i++)
-            {
-                Console.WriteLine(myBooks.GetItem(i));
-            }
-            
 
-            Console.WriteLine(myBooks.Pop()); // Book 3
+            foreach (string book in myBooks)
+            {
+                Console.WriteLine(book);
+            }
+
+            //for(int i = 0; i < myBooks.Length; i++)
+            // {
+            //     Console.WriteLine(myBooks.GetItem(i));
+            // }
+
+
+            // Console.WriteLine(myBooks.Pop()); // Book 3
+
+
+            var strandedCat = new RescueMission<IFly>("tree", 50);
+            var bugInMyCode = new RescueMission<ITech>("zoom", 1000);
+            var armWrestlingCompetition = new CombatMission<IStrength>("beach", 20);
+
+            var reyzhen = new Mystic("Michael", "Reyzhen", 7000, Alignment.GOOD);
+            strandedCat.HeroesDeployed.Add(reyzhen); // All good
+
+            //var rich = new Gadgeteer("Rich", "The Developer", 33, Alignment.EVIL);
+            //strandedCat.HeroesDeployed.Add(rich); // Should provide a compile time error
+            //var survey1 = new ReconMission<Gadgeteer>("Leeds", 300); // Should provide an error
+
+            var survey2 = new ReconMission<Mystic>("Manchester", 300);
+
+            survey2.HeroesDeployed.Add(reyzhen); // All good
+            // survey2.HeroesDeployed.Add(rich); // Should provide an error
 
         }
 

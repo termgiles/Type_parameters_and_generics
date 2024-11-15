@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SuperheroAgency
-build_property.ProjectDir = C:\Users\yusha\Documents\northcoders\fundamentals\cs-type-param\
+build_property.ProjectDir = C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

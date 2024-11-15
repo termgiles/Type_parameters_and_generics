@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.AccessControl;
@@ -7,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace SuperheroAgency
 {
-    internal class CustomStack<T>
+    internal class CustomStack<T> : IEnumerable<T>
     {
-        private T[] items = new T[0];
+        private T[] items = Array.Empty<T>();
         public int Length { get { return items.Length; } }
 
         public void Push(T item)
@@ -20,14 +21,29 @@ namespace SuperheroAgency
 
         public T Pop()
         {
-            T output = items[items.Length-1];
+            T output = items[items.Length - 1];
             Array.Resize(ref items, items.Length - 1);
             return output;
         }
 
-        public T GetItem(int i) 
-        { 
+        public T GetItem(int i)
+        {
             return items[i];
         }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            for (int i = 0; i < items.Length; i++)
+            {
+                yield return items[i];
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+
+
     }
 }

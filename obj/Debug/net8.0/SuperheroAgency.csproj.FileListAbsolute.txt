@@ -27,3 +27,4 @@ C:\Users\yusha\Documents\northcoders\fundamentals\cs-type-param\obj\Debug\net8.0
 C:\Users\yusha\Documents\northcoders\fundamentals\cs-type-param\obj\Debug\net8.0\SuperheroAgency.pdb
 C:\Users\yusha\Documents\northcoders\fundamentals\cs-type-param\obj\Debug\net8.0\SuperheroAgency.genruntimeconfig.cache
 C:\Users\yusha\Documents\northcoders\fundamentals\cs-type-param\obj\Debug\net8.0\ref\SuperheroAgency.dll
+C:\Users\thoma\OneDrive\Code\Csharp\week2\day_5\Type_parameters_and_generics\SuperheroAgency\obj\Debug\net8.0\SuperheroAgency.sourcelink.json
